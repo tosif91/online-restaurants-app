@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1007357246521",
+    "firebase_url": "https://fleksa-36875.firebaseio.com",
+    "project_id": "fleksa-36875",
+    "storage_bucket": "fleksa-36875.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007357246521:android:9e284da034f6b3dd8561e8",
+        "android_client_info": {
+          "package_name": "com.example.vegdaily"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007357246521-isch9qraeq8oosjfo9l7npi5a10n1141.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vegdaily",
+            "certificate_hash": "e72f8f4df0a706c2aafb13089d93cdc6de01b52b"
+          }
+        },
+        {
+          "client_id": "1007357246521-n3diitpeg1ug01lh40ehn2kvdu22rttv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdz6WxFLx6OCJJXtKIpr_CVECqV3srOh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007357246521-n3diitpeg1ug01lh40ehn2kvdu22rttv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
