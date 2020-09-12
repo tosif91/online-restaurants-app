@@ -1,4 +1,4 @@
-# vegdaily
+# online restaurants app
 
 A new Flutter project.
 
