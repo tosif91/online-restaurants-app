@@ -1,6 +1,8 @@
 # online restaurants app
 
-A new Flutter project.
+This app follows MVVM architecture.
+authenticated with Firebase authentication.
+
 
 ## Getting Started
 
